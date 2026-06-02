@@ -4,4 +4,4 @@ Este es el README de mi proyecto.
 
 La funcionalidad de la camara ha terminado.
 
-Nuevo cambio de mi compañero.
+Nuevo cambio en la nueva rama
