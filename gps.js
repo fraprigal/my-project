@@ -6,4 +6,6 @@ function camera() {
 
     // camera
 
+    // camera finished
+
 }
