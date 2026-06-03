@@ -9,3 +9,8 @@ function camera() {
     // camera finished
 
 }
+
+function login() {
+
+    // cambios de mi compañero
+}
