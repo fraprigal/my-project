@@ -7,3 +7,5 @@ La funcionalidad de la camara es correcta (cambios del compañero) añadiendo la
 Nuevo cambio en la nueva rama
 
 Cambios para visualizar el git pull
+
+Cambios para visualizar el git fetch
